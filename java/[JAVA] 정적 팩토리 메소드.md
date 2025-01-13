@@ -52,3 +52,5 @@ caching 한다면 필요한 인스턴스만 뽑아 재사용하여 메모리를 
 - 반환되는 객체는 입력 파라미터에 따라 구현체가 다를 수 있다.
 
 
+## static factory method naming best practice
+
