@@ -13,7 +13,7 @@ Today I Learned
 - [프로젝트 테스트 코드를 자동화 하면서 생긴 Issue](https://github.com/jaewoo9797/githubActionFlow/blob/main/README.md)
 
 # Test - Junit5, Mockito
-- [start test code, 갓 태어난 테스트 코더의 테스트란](Test/테스트%20코드에%20대한%20고민.md)
+- [start test code, 갓 태어난 테스트 코더의 테스트란](https://github.com/jaewoo9797/TIL/blob/main/Test/%E2%9C%85%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EB%AF%BC.md)
 
 ## etc
-- [`UUID` : id 값을 `UUID`로 만들라는 요구사항](/sprint-mission/mission01/uuid/✅UUID)
+- [`UUID` : id 값을 `UUID`로 만들라는 요구사항](https://github.com/jaewoo9797/TIL/blob/main/sprint-mission/mission01/uuid/%E2%9C%85UUID.md)
