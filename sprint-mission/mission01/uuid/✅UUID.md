@@ -58,4 +58,5 @@ long leastSigBits = uuid.getLeastSignificantBits();
 
 UUID.toString()을 할 경우 '-' dash 가 존재한다. 이를 제거하고 사용하길 원하면 뒤에 replace("-","") 메서드를 사용한다.
 
-
+### ps
+듣기로는 `UUID` 값을 얻어서 같은 값을 얻을 확률은 로또를 3번이나 1등 당첨되는 확률보다 낮다고 한다🫢
