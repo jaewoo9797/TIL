@@ -9,6 +9,10 @@ Today I Learned
 - [생성자 초기화 시에 값이 없음을 나타내주어야 할까?](https://github.com/jaewoo9797/TIL/blob/main/java/%E2%9C%85At%20Initialized%20field%20null.md)
 - [static factory method 나도 한 번 사용해보자!](https://github.com/jaewoo9797/TIL/blob/main/java/%E2%9C%85%20%5BJAVA%5D%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 
+# Spring
+## JPA
+- [Entity 어떻게 만들어야할까?]()
+
 # Git action
 - [프로젝트 테스트 코드를 자동화 하면서 생긴 Issue](https://github.com/jaewoo9797/githubActionFlow/blob/main/README.md)
 
