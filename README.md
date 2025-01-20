@@ -11,7 +11,7 @@ Today I Learned
 
 # Spring
 ## JPA
-- [Entity 어떻게 만들어야할까?]()
+- [Entity 어떻게 만들어야할까?](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%96%B4%EB%96%BB%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B9%8C.md)
 
 # Git action
 - [프로젝트 테스트 코드를 자동화 하면서 생긴 Issue](https://github.com/jaewoo9797/githubActionFlow/blob/main/README.md)
