@@ -5,7 +5,7 @@
 
 자료 구조를 저장하고 있는 `Repository` 객체에서 특정 객체를 찾는 메서드를 호출한다. 값을 찾지 못할 때 `null`을 반환하는 것을 처리해 주어야 한다.
 
-```
+```java
 @Override
 public Optional<T> findById(final ID id) {
     var findEntity = store.get(id);
@@ -21,7 +21,7 @@ public Optional<T> findById(final ID id) {
 
 `of`
 
-```
+```java
 public static <T> Optional<T> of(T value)
 Returns an Optional with the specified present non-null value.
 
@@ -39,7 +39,7 @@ NullPointerException - if value is null
 
 `ofNullable`
 
-```
+```java
 public static <T> Optional<T> ofNullable(T value)
 Return an Optional describing the specified value, if non-null, otherwise returns an empty Optional.
 
@@ -67,7 +67,7 @@ an Optional with a present value if the specified value is non-null, otherwise a
 
 코드로 돌아가 보면, `of`메서드를 사용한다면, 이렇게 할 것 같다.
 
-```
+```java
 import java.util.Optional;
 
 @Override
