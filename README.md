@@ -17,7 +17,10 @@ Today I Learned
 - [엔티티 연관관계 매핑 시작!](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%20%EC%8B%9C%EC%9E%91.md)
 - [Lazy Loading N+1 알아보자](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/Lazy%20Loading%20N%2B1%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90.md)
 - [너무 큰 데이터 셋 페이징 처리의 기본](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/pagination/paging%20and%20sort.md)
-  
+
+## DATABASE
+- [테이블 pk 값-BIGINT](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98%20id%20%EC%BB%AC%EB%9F%BC%EC%9D%98%20%ED%83%80%EC%9E%85.md)
+
 # Git action
 - [프로젝트 테스트 코드를 자동화 하면서 생긴 Issue](https://github.com/jaewoo9797/githubActionFlow/blob/main/README.md)
 
