@@ -20,7 +20,7 @@ Today I Learned
 
 ## DATABASE
 - [테이블 pk 값-BIGINT](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98%20id%20%EC%BB%AC%EB%9F%BC%EC%9D%98%20%ED%83%80%EC%9E%85.md)
-
+- [문자열 데이터 타입](https://github.com/jaewoo9797/TIL/blob/main/mysql/varchar%2C%20TEXT%20colum.md)
 # Git action
 - [프로젝트 테스트 코드를 자동화 하면서 생긴 Issue](https://github.com/jaewoo9797/githubActionFlow/blob/main/README.md)
 
