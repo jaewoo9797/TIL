@@ -9,6 +9,7 @@ Today I Learned
 - [생성자 초기화 시에 값이 없음을 나타내주어야 할까?](https://github.com/jaewoo9797/TIL/blob/main/java/%E2%9C%85At%20Initialized%20field%20null.md)
 - [static factory method 나도 한 번 사용해보자!](https://github.com/jaewoo9797/TIL/blob/main/java/%E2%9C%85%20%5BJAVA%5D%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 - [커스텀 예외로 관리하기-unchecked Exception](https://github.com/jaewoo9797/inflearn-jpashop/blob/main/study/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%98%88%EC%99%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [HashSet - 위클리미션 3주](https://github.com/jaewoo9797/TIL/blob/main/codie-it/weekly-paper/03-weekly.md)
 
 # Spring
 ## JPA
@@ -30,6 +31,11 @@ Today I Learned
 
 # Test - Junit5, Mockito
 - [start test code, 갓 태어난 테스트 코더의 테스트란](https://github.com/jaewoo9797/TIL/blob/main/Test/%E2%9C%85%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EB%AF%BC.md)
+
+# Infra
+## Docker
+- [Docker-Compose 정](https://github.com/jaewoo9797/TIL/blob/main/docker/compose/docker_compose.md)
+
 
 ## etc
 - [`UUID` : id 값을 `UUID`로 만들라는 요구사항](https://github.com/jaewoo9797/TIL/blob/main/sprint-mission/mission01/uuid/%E2%9C%85UUID.md)
