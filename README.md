@@ -49,4 +49,4 @@ Today I Learned
 
 - [`UUID` : id 값을 `UUID`로 만들라는 요구사항](https://github.com/jaewoo9797/TIL/blob/main/sprint-mission/mission01/uuid/%E2%9C%85UUID.md)
 
-- [소프트웨어 개발 3대 원칙]()
+- [소프트웨어 개발 3대 원칙](https://github.com/jaewoo9797/TIL/blob/main/java/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B43%EB%8C%80%EC%9B%90%EC%B9%99.md)
