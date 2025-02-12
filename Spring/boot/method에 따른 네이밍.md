@@ -84,6 +84,4 @@
 - 전체 검색은 동사"search" 와 쿼리 매개 변수"q"를 사용하자.
   예) /search?q=fluffy+fur
 
-
-
-- (web api design: 개발자에게 사랑받는 API 만들기기)[https://www.mimul.com/blog/web-api-design-from-apigee/?fbclid=IwAR1Q5QmdYTLpgc9c5w9IKQM2i49JBsNuEwyJHntYjWytEYQK89m2fJUMPAE]
+[web api design: 개발자에게 사랑받는 API 만들기기](https://www.mimul.com/blog/web-api-design-from-apigee/?fbclid=IwAR1Q5QmdYTLpgc9c5w9IKQM2i49JBsNuEwyJHntYjWytEYQK89m2fJUMPAE)
