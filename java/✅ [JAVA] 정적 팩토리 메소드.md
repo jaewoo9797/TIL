@@ -93,3 +93,30 @@ public static Channel createOfChannelNameAndUser(
     return new Channel(channelName, creator);
 }
 ```
+
+언제 정적메를 사용하는지에 대해서 질문을 받고 조금 더 디벨롭하기 위해서 찾아보았습니다.
+
+- 상황에 따라 다른 파라미터를 받아야 할 때
+
+예를 들어서 이넘 타입으로 private 채널과 public 채널이 존재한다고 했을 때, 정적 팩토리 메서드가 유용하게 사용될 것 같다.
+```java
+public class car {
+  private String name;
+  private ColorType type;
+
+  private Car(name, type) {
+    this.name = name;
+    this.type = type;
+  }
+
+  public static Car createRedCar(String name) {
+    return new Car(name, ColorType.RED);
+  }
+
+  public static Car createBlueCar(String name) {
+    return new Car(name, ColorType.BLUE);
+  }
+
+}
+```
+
