@@ -16,7 +16,7 @@ Today I Learned
 # Spring
 
 - [RestController, ResponseEntity, HTTP](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/HTTP.md)
-
+- [RequestMapping](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/RequestMapping.md)
 
 ## JPA
 
