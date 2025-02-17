@@ -101,3 +101,6 @@ produces 속성은 서버에서 데이터를 전달할 때 해당 데이터의 �
 또한 요청 타입을 제한하고 반환하는 타입을 지정해줄 수 있는 consumes속성과 produces 속성도 간단하게 알아보았다. 이는 
 파일이나 이미지 등을 처리할 때도 사용할 수 있으니 기본적인 유형을 살펴봄으로 이 후 학습을 진행할 때에 이해하는데 도움을 
 받을 수 있을 것 같다.
+
+출처
+- [Spring docs](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-requestmapping.html)
