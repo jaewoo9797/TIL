@@ -17,7 +17,7 @@ Today I Learned
 
 - [RestController, ResponseEntity, HTTP](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/HTTP.md)
 - [RequestMapping](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/RequestMapping.md)
-
+- [DTO, Service, Repository 의존에 대한 고찰](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80%20%EB%A0%88%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B3%A0%EB%AF%BC.md)
 ## JPA
 
 - [Entity 어떻게 만들어야할까?](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%96%B4%EB%96%BB%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B9%8C.md)
