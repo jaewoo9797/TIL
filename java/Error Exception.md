@@ -64,6 +64,7 @@
 - `UnSupportedOperationException`
   - 구현하려는 인터페이스의 메서드 일부를 구현할 수 없는 경우에 사용
 
+[참조해서 코딩](https://goldenrabbit.co.kr/2024/04/03/spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 참조
 
 - [custom exception을 언제 서야 할까?](https://tecoble.techcourse.co.kr/post/2020-08-17-custom-exception/)
