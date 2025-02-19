@@ -13,6 +13,7 @@ Today I Learned
 - [커스텀 예외로 관리하기-unchecked Exception](https://github.com/jaewoo9797/inflearn-jpashop/blob/main/study/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%98%88%EC%99%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 - [HashSet - 위클리미션 3주](https://github.com/jaewoo9797/TIL/blob/main/codie-it/weekly-paper/03-weekly.md)
 - [빌더 패턴 사용 기준을 정합니다!](https://github.com/jaewoo9797/TIL/blob/main/java/builder%20pattern.md)
+- [CustomException , StandardException](https://github.com/jaewoo9797/TIL/blob/main/java/Error%20Exception.md)
 # Spring
 
 - [RestController, ResponseEntity, HTTP](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/HTTP.md)
