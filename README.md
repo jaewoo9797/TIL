@@ -30,7 +30,7 @@ Today I Learned
 - [너무 큰 데이터 셋 페이징 처리의 기본](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/pagination/paging%20and%20sort.md)
 - [트랜잭션 readonly](https://github.com/jaewoo9797/inflearn-jpashop/blob/main/study/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%9D%BD%EA%B8%B0%EB%A7%8C.md)
 - [연관관계 편의 메서드](https://github.com/jaewoo9797/inflearn-jpashop/blob/main/study/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%ED%8E%B8%EC%9D%98%EB%A9%94%EC%84%9C%EB%93%9C.md)
-
+- [임베디드 타입 @Embedded, @Embeddable](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%40Embeddable.md)
 ## DATABASE
 
 - [테이블 pk 값-BIGINT](https://github.com/jaewoo9797/TIL/blob/main/Spring/data/jpa/%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98%20id%20%EC%BB%AC%EB%9F%BC%EC%9D%98%20%ED%83%80%EC%9E%85.md)
