@@ -14,6 +14,7 @@ Today I Learned
 - [HashSet - 위클리미션 3주](https://github.com/jaewoo9797/TIL/blob/main/codie-it/weekly-paper/03-weekly.md)
 - [빌더 패턴 사용 기준을 정합니다!](https://github.com/jaewoo9797/TIL/blob/main/java/builder%20pattern.md)
 - [CustomException , StandardException](https://github.com/jaewoo9797/TIL/blob/main/java/Error%20Exception.md)
+- [Custom Exception, Standard Exception](https://github.com/jaewoo9797/TIL/blob/main/java/Error%20Exception.md)
 # Spring
 
 - [RestController, ResponseEntity, HTTP](https://github.com/jaewoo9797/TIL/blob/main/Spring/boot/HTTP.md)
