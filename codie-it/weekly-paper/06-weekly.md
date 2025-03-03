@@ -63,4 +63,5 @@ TRUNCATE TABLE 테이블 이름;
 ### 출처
 
 - [WIKI - DDL](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%95%EC%9D%98_%EC%96%B8%EC%96%B4)
-- [text](https://en.wikipedia.org/wiki/Data_definition_language)
+- [wiki](https://en.wikipedia.org/wiki/Data_definition_language)
+- [geeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
