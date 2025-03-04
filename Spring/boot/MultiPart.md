@@ -57,8 +57,17 @@ public ResponseEntity<Object> saveEmployee(
 public ResponseEntity<Object> saveEmployee(@ReuqestParam String name, @RequestPart MultipartFile document)
 ```
 
+## Body에 담는 형식 form-data, x-www-form-urlencoded 차이
+
+![Image](https://github.com/user-attachments/assets/fd6fb1d5-b472-4e77-9020-404a680f402b)
+
+
+
 
 **출처**
 
 - [Spring docs](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-methods/multipart-forms.html)
 - [baeldung 파일 컨트롤러 예제](https://www.baeldung.com/sprint-boot-multipart-requests)
+
+추가로 정리 해보기
+- [Post 요청과 Content-Type의 관계](https://blog.naver.com/writer0713/221853596497)
