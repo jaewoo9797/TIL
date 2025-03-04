@@ -12,6 +12,10 @@ DDL 은 선언적 구문을 사용하여 열과 데이터 유형을 정의합니
 
 ### DML 이란
 
+DML (Data Manipulation Language) 는 데이터베이스에 데이터를 추가 (삽입), 삭제, 수정(업데이트)하는 데 사용되는
+컴퓨터 프로그래밍 언어입니다.
+
+
 ### DDL과 DML의 차이점
 
 ### DDL 의 대표적인 용어들
@@ -60,8 +64,14 @@ TRUNCATE TABLE 테이블 이름;
 
 ### DML 의 대표적인 용어들
 
+- SELECT - 검색 (질의)
+- INSERT - 삽입 (등록)
+- UPDATE - 업데이트 (수정)
+- DELETE - 삭제
+
 ### 출처
 
 - [WIKI - DDL](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%95%EC%9D%98_%EC%96%B8%EC%96%B4)
 - [wiki](https://en.wikipedia.org/wiki/Data_definition_language)
 - [geeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+- [wiki - DML](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A1%B0%EC%9E%91_%EC%96%B8%EC%96%B4)
