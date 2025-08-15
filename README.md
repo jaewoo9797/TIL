@@ -29,3 +29,6 @@ README.md // 인덱스 및 목차
 ## 🗂️ 작성/관리 규칙
 
 - 그날 공부한 내용을 기록합니다.
+
+# AWS 
+- [배포 후 EC2 T2.micro 사양으로 인해 생긴 문제점과 원인, 해결방법](https://github.com/jaewoo9797/TIL/blob/main/aws/2025-08-11-%EB%B0%B0%ED%8F%AC_%ED%9B%84_%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0.md)
