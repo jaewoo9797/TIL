@@ -32,3 +32,8 @@ README.md // 인덱스 및 목차
 
 # AWS 
 - [배포 후 EC2 T2.micro 사양으로 인해 생긴 문제점과 원인, 해결방법](https://github.com/jaewoo9797/TIL/blob/main/aws/2025-08-11-%EB%B0%B0%ED%8F%AC_%ED%9B%84_%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0.md)
+
+# Spring
+- [서비스와 레포지터리에 관한 고민 + DTO, codeit 공유](https://github.com/jaewoo9797/TIL/blob/main/spring/2025-02-17-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80%20%EB%A0%88%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B3%A0%EB%AF%BC.md)
+> 코드잇 교육과정에서 프로젝트를 진행하며 고민한 내용을 문서화하고 스프린터와 공유하고 소통한 문서입니다.   
+> 많은 분들이 같은 고민을 하고 있었고 다양한 의견으로 소통할 수 있었습니다.
