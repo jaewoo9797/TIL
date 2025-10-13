@@ -43,4 +43,5 @@ README.md // 인덱스 및 목차
 # 주니어 백엔드 개발자
 
 - [5장 비동기 연동](./junior_backend_developer/05_async/2025-10-05-비동기연동.md)
-- [6장 동시성](./junior_backend_developer/06_concurrecy/2025-10-13-동시성.md)
+- [6장 동시성1](./junior_backend_developer/06_concurrecy/2025-10-13-동시성.md)
+- [6장 동시성2](./junior_backend_developer/06_concurrecy/2025-10-13-동시성2.md)
